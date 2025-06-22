@@ -29,7 +29,7 @@ I began my pursuit of a Computer Science degree in 2023. I already had several c
 | Security Mindset | Python |
 | Mobile Development | C++ |
 
-Throughout this program my ability to acquire new skills has increased dramaticcally. In order to stay on top of everything, I have had to learn how to adapt and learn skills quickly to be able to apply them to different purposes.
+Throughout this program my ability to acquire new skills has increased dramaticcally. In order to stay on top of everything, I have had to learn how to adapt and learn skills quickly to be able to apply them for different purposes.
 
 ### _ePortfolio Considerations_
 
