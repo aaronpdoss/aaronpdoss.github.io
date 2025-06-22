@@ -37,4 +37,10 @@ Throughout this program my ability to acquire new skills has increased dramaticc
 
 Every course I took throughout my semesters working towards this degree provided me with new knowledge and skills to add to my repertoire. That being said, there were three courses where the final projects were best suited towards displaying my overall growth in three important categories to my career path. These projects will be shown within this ePortfolio as well as a code review going over one of the projects.
 
-<img id="codereview" src="assets/img/codereview.png" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+<img id="codereview" src="Assets/img/codereviewbanner.PNG" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
+
+Code reivews are a critical aspect of software developments. All developers have their own biases they may not recognize. Reviewing your own code and having others review your work often identifies critical bugs early in the development life cycle. A good code review is one where we view our code with a certain lense so that we do not get boggled down with a potentially overwhelming amount of code. The narrower the lense we review with, the better we can find bugs or possible enhancements to be made to our code. Attached below you can see my own code review of my first project I will go over. 
+
+### _Code Review Link_
+
+https://youtu.be/hieSw2_2BF8
