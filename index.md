@@ -33,7 +33,7 @@ Throughout this program my ability to acquire new skills has increased dramaticc
 
 ### _ePortfolio Considerations_
 
-Every course I took throughout my semesters working towards this degree provided me with new knowledge and skills to add to my repertoire. That being said, there were three courses where the final projects were best suited towards displaying my overall growth in three important categories to my career path. These projects will be shown within this ePortfolio as well as a code review going over one of the projects.
+Every course I took throughout my semesters working towards this degree provided me with new knowledge and skills to add to my repertoire. That being said, there were three courses where the final projects were best suited towards displaying my overall growth in three important categories to my career path. These projects will be shown within this ePortfolio as well as a code review going over one of the projects. My first artifact was a mobile android app which showcases my development skills from initial conception of a project to its testing and completetion. My second artifact showcases my flexibility with learning how to utillize new data structures I haven't worked with before. My final artifact showcases a little bit of everything. I had to learn new skills to develop the website, code with a security focused mindset, and utilize tools to test different features of the project overall.
 
 <img id="codereview" src="Assets/img/codereviewbanner.PNG" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
