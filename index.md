@@ -38,12 +38,12 @@ Every course I took throughout my semesters working towards this degree provided
 
 <img id="codereview" src="Assets/img/codereviewbanner.PNG" alt="Refinement Plan and Code Review" title="Refinement Plan and Code Review" />
 
-Code reivews are a critical aspect of software developments. All developers have their own biases they may not recognize. Reviewing your own code and having others review your work often identifies critical bugs early in the development life cycle. A good code review is one where we view our code with a certain lense so that we do not get boggled down with a potentially overwhelming amount of code. The narrower the lense we review with, the better we can find bugs or possible enhancements to be made to our code. Attached below you can see my own code review of my first project I will go over. 
-
-### _Code Review Link_
-
-[Code Review](https://youtu.be/hieSw2_2BF8)
+Code reivews are a critical aspect of software developments. All developers have their own biases they may not recognize. Reviewing your own code and having others review your work often identifies critical bugs early in the development life cycle. A good code review is one where we view our code with a certain lense so that we do not get boggled down with a potentially overwhelming amount of code. The narrower the lense we review with, the better we can find bugs or possible enhancements to be made to our code. You can see my first [Code Review](https://youtu.be/hieSw2_2BF8) here.
 
 <img id="softwaredesign" src="Assets/img/softwarebanner.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 As discussed in my code review, the artificat I selected to represent my software design and engineering skills is my **mobile application tracking app**. The app's goal is allow the user to track their weight using android mobile devices. The software was designed and developed for the purposes of a final project for the CS360 Mobile Architecture and Programming computer science course. The application was developed using Java with integration to a relational database using SQLite. The development for this project was completed using the development tool Android Studio IDE. Testing and running the app are completed through a device emulator inside Android Studio. This artifact involved an entire software design and engineering process. It intially began as a concept where we created diagrams of what each screen of the app would look like. Over time I was able to develop it into a full application. The enhancements I made to this application involved fixing existing bugs within the project and adding additional tracking abilities for user workouts.
+
+|[Original](https://github.com/aaronpdoss/SNHU-CS360)|[Enhanced](https://github.com/aaronpdoss/aaronpdoss.github.io/tree/main/enhancement/CS360-softwaredesign)|
+
+<img id="algorithms" src="assets/img/algorithms.png" alt="Algorithms and Data Structure" title="Algorithms and Data Structure" />
