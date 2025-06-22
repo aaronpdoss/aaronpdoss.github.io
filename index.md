@@ -45,5 +45,5 @@ Code reivews are a critical aspect of software developments. All developers have
 
 https://youtu.be/hieSw2_2BF8
 
-<img id="softwaredesign" src="assets/img/softwarebanner.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+<img id="softwaredesign" src="Assets/img/softwarebanner.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
