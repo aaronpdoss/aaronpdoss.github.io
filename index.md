@@ -4,7 +4,6 @@ This ePortfolio demonstrates the knowledge and skills I have gained and develope
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Portfolio Considerations_](#portfolio-considerations "Portfolio Considerations")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Preparing For The Future_](#preparing-for-the-future "Preparing for the Future")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Video Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
 &nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
@@ -43,7 +42,8 @@ Code reivews are a critical aspect of software developments. All developers have
 
 ### _Code Review Link_
 
-https://youtu.be/hieSw2_2BF8
+[Code Review](https://youtu.be/hieSw2_2BF8)
 
 <img id="softwaredesign" src="Assets/img/softwarebanner.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
+As discussed in my code review, the artificat I selected to represent my software design and engineering skills is my **mobile application tracking app**. The app's goal is allow the user to track their weight using android mobile devices. The software was designed and developed for the purposes of a final project for the CS360 Mobile Architecture and Programming computer science course. The application was developed using Java with integration to a relational database using SQLite. The development for this project was completed using the development tool Android Studio IDE. Testing and running the app are completed through a device emulator inside Android Studio. This artifact involved an entire software design and engineering process. It intially began as a concept where we created diagrams of what each screen of the app would look like. Over time I was able to develop it into a full application. The enhancements I made to this application involved fixing existing bugs within the project and adding additional tracking abilities for user workouts.
