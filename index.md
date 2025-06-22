@@ -12,7 +12,6 @@ This ePortfolio demonstrates the knowledge and skills I have gained and develope
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
-&nbsp;[Reviews](#reviews "ePortfolio Reviews")
 
 <img id="selfAssessment" src="Assets/img/selfassessment.png" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
