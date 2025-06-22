@@ -44,3 +44,6 @@ Code reivews are a critical aspect of software developments. All developers have
 ### _Code Review Link_
 
 https://youtu.be/hieSw2_2BF8
+
+<img id="softwaredesign" src="assets/img/softwarebanner.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+
